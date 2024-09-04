@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinerlangga&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinerlangga" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, UI/UX**
+- 🌱 I’m currently learning **JavaScript, MongoDB, Express.js, ReactJS, Node.js, UI/UX**
 
 - 📫 How to reach me **kelvinerlanggaa@gmail.com**
 
