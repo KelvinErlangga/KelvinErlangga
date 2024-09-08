@@ -1,7 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Kelvin Erlangga</h1>
 <h3 align="center">Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinerlangga&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinerlangga" /> </p>
 
